@@ -1,0 +1,2 @@
+names = ["joe", "bob", "ted"]
+puts names.first

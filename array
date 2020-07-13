@@ -1,0 +1,13 @@
+SHARK_FAMILY = ["Baby Shark", "Mama Shark", "Papa Shark", "Grandma Shark", "Grandpa Shark"]
+
+
+
+puts SHARK_FAMILY
+
+
+name = ["bob", "joe"]
+no_name = name.pop
+
+p name
+
+p no_name

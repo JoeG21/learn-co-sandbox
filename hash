@@ -1,0 +1,6 @@
+name_songs = {
+  travis: "hello",
+  joe:  "gomez",
+}
+
+puts name_songs
